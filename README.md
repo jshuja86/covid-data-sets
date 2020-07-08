@@ -1,6 +1,7 @@
 # covid-data-sets
 
-This repo provides suplementary data to our article submitted in Applied Intelligence Journal. 
+This repo provides suplementary data to our article submitted in Applied Intelligence Journal. The article title is COVID-19 DATASETS: A COMPREHENSIVE REVIEW.
+
 The template file contains a list of data sets related to COVID-19 research.
 The data sets may be related to medical images for COVID-19 diagnosis,
 COVID-19 case rports and their analysis,
